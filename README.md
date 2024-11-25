@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hi there 👋! I'm Hannes
 
+### 🚀 About Me
+
+Currently studying at Mid University, Sweden, where I'm pursuing Web Development. I'm passionate about creating elegant solutions to complex problems and love learning new technologies. My academic journey is helping me build a strong foundation in modern web development practices while I contribute to projects that make a difference.
+
+- 🌱 I’m currently studying
+- 🔭 I’m currently working on a language teaching discord bot
 <!--
 **iShotHarambe123/iShotHarambe123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
